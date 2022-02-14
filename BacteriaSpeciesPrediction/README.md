@@ -1,0 +1,1 @@
+This project uses the kaggle practise competition dataset to predict the bacteria species using the DNA squence data. 

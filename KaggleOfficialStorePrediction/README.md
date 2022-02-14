@@ -1,0 +1,1 @@
+The project using time series analysis to predict the sale of kaggle merchandise for next 1 year and predict which shopping store will become official kaggle mechandise store. 
